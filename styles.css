@@ -60,6 +60,7 @@ header {
 }
 
 .index_page_img{
+    width: device-width;
     max-width: 500px;
     float: right;
     justify-content: center;
