@@ -109,7 +109,7 @@ footer {
   z-index: 1000;
   display: flex;
   justify-content: center;
-  gap: 4rem;
+  gap: 5rem;
 }
 
 .nav a {
